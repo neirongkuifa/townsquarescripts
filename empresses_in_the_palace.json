@@ -3,6 +3,21 @@
 		"id": "_meta",
 		"name": "甄嬛传",
 		"author": "AbelJiang",
-		"logo": ""
+		"logo": "https://github.com/neirongkuifa/townsquarescripts/blob/master/logo.png?raw=true"
+	},
+	{
+		"id": "zhenhuan",
+		"image": "https://github.com/neirongkuifa/townsquarescripts/blob/master/zhenhuan.png?raw=true",
+		"edition": "custom",
+		"firstNight": 0,
+		"firstNightReminder": "",
+		"otherNight": 0,
+		"otherNightReminder": "",
+		"reminders": [],
+		"remindersGlobal": [],
+		"setup": false,
+		"name": "甄嬛",
+		"team": "townfolk",
+		"ability": "当你在夜晚被皇上杀死，你可以反杀皇上， 成为女皇"
 	}
 ]
